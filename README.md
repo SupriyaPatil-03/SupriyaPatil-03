@@ -51,8 +51,8 @@ Seeking opportunities in:
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](linkedin.com/in/supriya-patil-17612a219)
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](supriyapatil332002@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/supriya-patil-17612a219/)
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:supriyapatil332002@gmail.com) 
 ---
 
 Thank you for visiting my profile! 😊
