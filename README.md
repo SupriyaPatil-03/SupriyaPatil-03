@@ -29,7 +29,7 @@ E-commerce platform for furniture shopping. Built using JSP, Java, HTML/CSS, and
 
 ### 📚 Swarkimya Publications
 Multi-service platform offering educational books, handwriting classes, and counseling sessions for kids.  
-**Features:** Category-wise book gallery,  handwriting classes, behavior counseling sessions, 🛒 unified order/booking system, and separate user/admin panels with full management and feedback features.
+**Features:** Category-wise book gallery,  handwriting classes, behavior counseling sessions, 🛒  order/booking system, and separate user/admin panels with full management and feedback features.
 
 ---
 
